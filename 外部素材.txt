@@ -1,0 +1,67 @@
+# 外部素材
+
+## ゲームオブジェクト
+・DOT ILLUST."マップタイル(荒野)".DOT ILLUST（ドットイラスト）.https://dot-illust.net/maptile_koya/ , (2026/05/12) , ゲーム内の荒野タイル作成のため
+・DOT ILLUST."マップタイル(土)02".DOT ILLUST（ドットイラスト）.https://dot-illust.net/maptile_tsuchi_02/ , (2026/05/12) , ゲーム内の土タイル作成のため
+・DOT ILLUST."ブロック(石)".DOT ILLUST（ドットイラスト）.https://dot-illust.net/block_ishi/ , (2026/05/12) , ゲーム内の岩オブジェ作成のため
+・DOT ILLUST."ブロック（レンガ）【グレー】 ".DOT ILLUST（ドットイラスト）.https://dot-illust.net/block_renga_gray/ , (2026/05/13) , ゲーム内のレンガオブジェ作成のため
+・DOT ILLUST."ブロック【シルバー】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/block_silver/ , (2026/05/13) , ゲーム内の固いレンガオブジェ作成のため
+
+
+・DOT ILLUST."マップタイル（大理石）【ブラック】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/maptile_dairiseki_black/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."柱（上）【ブラック】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/hashira_black_top/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."柱（中央）【ブラック】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/hashira_black_middle/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."柱（下）【ブラック】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/hashira_black_bottom/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."階段（正面/カーペットあり/左）【ブラック/レッド】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/kaidan_front_black_left_carpet_red/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+
+・DOT ILLUST."階段（正面/カーペットあり/右）【ブラック/レッド】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/kaidan_front_black_right_carpet_red/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."階段（正面/カーペットあり/中央）【レッド】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/kaidan_front_center_carpet_red/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+・DOT ILLUST."マップタイル（カーペット/中央）【レッド】".DOT ILLUST（ドットイラスト）.https://dot-illust.net/maptile_carpet_red_middle/ , (2026/05/13) , ゲーム内のボスエリアタイル作成のため
+
+
+# SE
+・音の輪[リアル効果音制作部] . “戦艦系砲弾音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/agreement/nc417019 , (2026/5/19) , ビーム効果音
+・効果音ラボ. “【効果音ラボ】ブーメラン” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc133514, (2026/5/19) , ブーメラン効果音
+・ぼんじる. “高速移動する音【効果音】” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc478417, (2026/5/19) , 突進音
+・櫻ノ宮 萬(サクラノミヤヨロズ). “ザクッと鋭い斬撃” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc306909, (2026/5/19) , 切り裂く音
+・beyan. “攻撃魔法・ミサイル系爆発音４” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc439592, (2026/5/19) , ロケットミサイル
+・無料効果音で遊ぼう！（小森平）. “強い風２” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc70864, (2026/5/19) , ハリケーンの音
+・果音ラボ. “【効果音ラボ】ドリル” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc133698 , (2026/5/19) , 突進音
+・hiruko. “効果音　ゲーム　ドリル風音源” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc84890 , (2026/5/19) , ドリル音
+・みずぴょん@『ゆう君ちゃん』監督. “武器振る音01” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc98571 , (2026/5/19) , 竹を振り回す音
+・しぐれくんMod.6. “トマホーク巡航ミサイル発射音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc222377 , (2026/5/19) , たけのこミサイル
+・たつろー・Tスタ. “ロケットランチャー・発射” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc393090 , (2026/5/19) , たけのこロケット
+・アヤ少尉. “大撃破パンチ” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc455820 , (2026/5/19) , パンチ
+・音の輪[リアル効果音制作部]. “ビーム音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc425826 , (2026/5/19) , ビーム音
+・消音. “[波形メモリ] 爆発音(大きめ)” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc407930 , (2026/5/19) , 爆発音
+
+・アヤ少尉. “キャタピラ走行” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc308104 , (2026/5/20) , キャタピラ走行
+・ユウキチ. “SFチックなロボットが空に飛び立つような音。動作音。” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc303274 , (2026/5/20) , ロボットSF
+・たつろー・Tスタ. “巨大ロボット・歩く・二歩” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc393408 , (2026/5/20) , 巨大ロボット
+
+・音の輪[リアル効果音制作部]. “打撃音4” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc426264 , (2026/5/20) , 敵の攻撃
+・無料効果音で遊ぼう！（小森平）. “小化け物の威嚇” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc46181 , (2026/5/20) , 敵の攻撃
+・音の輪[リアル効果音制作部]. “刀で打ち合う音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc425836 , (2026/5/20) , 敵の攻撃
+・vebe. “悪魔の笑い声(オス)” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc296545 , (2026/5/20) , 敵の攻撃
+・音の輪[リアル効果音制作部]. “神秘音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc164731 , (2026/5/20) , 敵の攻撃
+・circa. “獣の唸る声” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc364539 , (2026/5/20) , 敵の攻撃
+・音の輪[リアル効果音制作部]. “神社の鈴の音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc426414 , (2026/5/20) , 敵の攻撃
+・ひっこ. “消滅音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc231914 , (2026/5/20) , 敵の消滅音
+
+・本田. “>フリー効果音：和楽器｜OtoLogic” . フリー効果音：和楽器｜伝統的な和楽器を用いた、和風効果音をまとめています。  . https://otologic.jp/free/se/instruments-japanese01.html , (2026/5/20) , クリック音
+
+・TC. “つるはし” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc225827  (2026/5/21) , 岩の生える音
+・dominator2nd. “効果音;爆発音” . ニコニコ・コモンズ  . https://commons.nicovideo.jp/works/nc446378  (2026/5/21) , 岩の生える音
+
+
+## 外部ツール
+"speechify Studio" Voicer by https://CoeFont.cloud (5/23) キャラクターにボイスをつけるため
+
+
+
+
+
+## フォーマット
+著者名 . “ページ名” . サイト名  . 入手先URL , (閲覧日) , 用途
+
+
